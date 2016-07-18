@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs>
+    <model>
+    Cox
+    </model>
+    <crossvalfoldnumber>
+    10
+    </crossvalfoldnumber>
+    <datasetfilename>
+    TX1_Group1_newvars.csv
+    </datasetfilename>
+    <normalize>
+    TRUE
+    </normalize>
+    <binarize>
+    TRUE
+    </binarize>
+</configs>
